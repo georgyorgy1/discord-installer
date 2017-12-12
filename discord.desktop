@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Discord
+Comment=Free Text & Voice Chat for Gamers
+Exec=Discord
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/discord.png
+Categories=Network
